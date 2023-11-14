@@ -2,12 +2,12 @@
 
 # Mobile Development Website Links
 
-- .NET MAUI
+- <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png" alt="DotNet" title="DotNet" /> MAUI
 
   - [Official Docs](https://docs.microsoft.com/en-us/dotnet/maui/)
   - [Code Samples](https://github.com/dotnet/maui-samples)
 
-- iOS
+- iOS<sup>TM</sup>
 
   - [About Swift](https://docs.swift.org/swift-book/index.html)
   - [Swift | Apple Developer Documentation](https://developer.apple.com/documentation/swift)
@@ -18,7 +18,7 @@
   - [App Store Connect](https://appstoreconnect.apple.com/login)
   - [TestFlight](https://testflight.apple.com/)
 
-- Android
+- <img src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="Droid" title="Droid"> Android<sup>TM</sup>
 
   - [Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
   - [Kotlin Style Guide](https://developer.android.com/kotlin/style-guide)
