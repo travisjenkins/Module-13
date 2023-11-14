@@ -2,7 +2,7 @@
 
 # Mobile Development Website Links
 
-- <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png" alt="DotNet" title="DotNet" width="70" /> MAUI
+- <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.png" alt="DotNet" title="DotNet" width="70" /> MAUI<sup>TM</sup>
 
   - [Official Docs](https://docs.microsoft.com/en-us/dotnet/maui/)
   - [Code Samples](https://github.com/dotnet/maui-samples)
